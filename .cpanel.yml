@@ -1,8 +1,8 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/sbballro/public_html
-    - /bin/cp _.sbballroomdance.com.pem.txt $DEPLOYPATH
+    - export DEPLOYPATH=/home/sbballro/public_html/brianhandcustomwoodworking.com
+    - /bin/cp _.brianhandcustomwoodworking.com.pem.txt $DEPLOYPATH
     - /bin/cp contact.php $DEPLOYPATH
     - /bin/cp footer.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
