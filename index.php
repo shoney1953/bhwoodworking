@@ -27,9 +27,7 @@ session_start();
         <div class="container">
 
             <h1>Brian Hand Custom Woodworking</h1>
-
             <h3>Located in SaddleBrooke Arizona,<br> Brian creates custom pieces from local wood sources.</h3><br>
-
             <a href="https://sheilahoney.smugmug.com/Brian-Hands-Creations">Click to see Samples of his work</a><br><br>
             <a href="mailto:brianhand1@outlook.com?subject=Woodworking Information">
                        Click to Email Brian</a>
