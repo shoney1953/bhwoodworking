@@ -27,7 +27,7 @@ session_start();
         <div class="container">
 
             <h1>Contact Brian</h1>
-            <h2>Phone: 512 751-7280</h2>
+            <h2>Phone: 512 751-7280</h2><br>
 
             <br><a href="mailto:brianhand1@outlook.com?subject=Woodworking Information">
                        Click to Email Brian</a>
